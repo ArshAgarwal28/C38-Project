@@ -13,7 +13,7 @@ class Form {
 
     display() {
         var title = createElement('h2');
-        title.html("Car Racing Game");
+        title.html("Hurdle Game");
         title.position(displayWidth / 2 - 125, 0);
 
         this.input.position(displayWidth / 2 - 100, displayHeight / 6);
